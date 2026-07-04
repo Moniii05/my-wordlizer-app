@@ -3,6 +3,8 @@
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE.txt.
+ *
+ *SPDX-License-Identifier: MIT
  */
 
 package de.htw_berlin.fb4.lisbert;
